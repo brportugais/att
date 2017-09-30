@@ -1,7 +1,7 @@
 {
   "name": "M2X Trigger Notification App",
   "description": "AT&amp;T M2X Node.js Sample Trigger Notification app.",
-  "repository": "https://github.com/brportugais/att",
+  "repository": "https://github.com/brportugais/atttriggeralertapp",
   "keywords": ["node.js", "m2x", "trigger"],
   "addons": ["sendgrid:starter"]
 }
